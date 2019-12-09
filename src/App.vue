@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <test></test>
-    <!-- <router-view></router-view> -->
+    <!-- <test></test> -->
+    <router-view></router-view>
       <!-- Email: <input v-model="input1" type="text" name="fname"><br>
       Password: <input v-model="input2" type="text" name="lname"><br>
       <button type="button" @click="AddUser">Add User</button><br>

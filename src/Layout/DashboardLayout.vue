@@ -4,7 +4,7 @@
             <top-navbar></top-navbar>
             <side-bar></side-bar>
             <router-view></router-view>
-            <footer><footer>
+            <footer></footer>
         </div>
     </body>
 </template>
