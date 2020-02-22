@@ -33,7 +33,10 @@
     "vue-loader": "^13.0.5",
     "vue-template-compiler": "^2.4.4",
     "webpack": "^3.6.0",
-    "webpack-dev-server": "^2.9.1"
+    "webpack-dev-server": "^2.9.1",
+    "axios": "^0.19.2",
+    "plotly.js-dist": "^1.52.2",
+    "vue-router":"^3.1.5"
   }
 
 }
